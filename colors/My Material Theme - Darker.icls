@@ -52,7 +52,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="d9f5dd" />
-    <option name="SELECTION_BACKGROUND" value="2e2e2e" />
+    <option name="SELECTION_BACKGROUND" value="5a5a5a" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
     <option name="TEARLINE_COLOR" value="303030" />
@@ -1090,6 +1090,11 @@
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="c30000" />
       </value>
     </option>
     <option name="PHP_TAG">
