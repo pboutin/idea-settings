@@ -52,7 +52,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="d9f5dd" />
-    <option name="SELECTION_BACKGROUND" value="2e2e2e" />
+    <option name="SELECTION_BACKGROUND" value="494949" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
     <option name="TEARLINE_COLOR" value="303030" />
@@ -890,13 +890,11 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="1fc700" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="ab1c07" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
