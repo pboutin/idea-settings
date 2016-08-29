@@ -1,12 +1,12 @@
 <scheme name="My Material Theme - Darker" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.3" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
