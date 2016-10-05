@@ -1,0 +1,27 @@
+<application>
+  <component name="libraryTable">
+    <library name="accountsapi interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4" />
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1581187713" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4" />
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin" />
+        <root url="file://$USER_HOME$/dev/internap-accounts/accountsapi/.tox/py34/lib/python3.4/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1581187713" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
