@@ -1133,6 +1133,18 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="76d4ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="76d4ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
