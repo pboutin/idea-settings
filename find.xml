@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -8,12 +9,12 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.scss</mask>
       <mask>*.less</mask>
       <mask>*.php</mask>
       <mask>*.xml</mask>
       <mask>*.sh</mask>
       <mask>*.js</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
