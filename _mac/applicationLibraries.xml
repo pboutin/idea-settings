@@ -23,7 +23,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="ShopSystemTests interpreter library">
+    <library name="ShopSysTests interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/dev/shopsuey/system_tests/venv/lib/python2.7" />
         <root url="file://$USER_HOME$/dev/shopsuey/system_tests/venv/lib/python2.7/lib-dynload" />
