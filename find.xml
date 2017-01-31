@@ -1,18 +1,26 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*.scss</mask>
       <mask>*.less</mask>
+      <mask>*.xml</mask>
+      <mask>*.sh</mask>
       <mask>*.js</mask>
+      <mask>*.scss</mask>
+      <mask>*.py</mask>
+      <mask>*.sql</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
