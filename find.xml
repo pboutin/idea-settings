@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,12 +16,12 @@
       <mask>*.mxml</mask>
       <mask>*.less</mask>
       <mask>*.xml</mask>
-      <mask>*.sh</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.py</mask>
       <mask>*.sql</mask>
       <mask>*.php</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
