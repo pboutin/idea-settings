@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.hbs" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,6 +24,7 @@
       <mask>*.py</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
