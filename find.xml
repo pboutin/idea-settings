@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,9 +20,9 @@
       <mask>*.sql</mask>
       <mask>*.sh</mask>
       <mask>*.py</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.hbs</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
