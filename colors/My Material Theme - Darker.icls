@@ -1,4 +1,5 @@
 <scheme name="My Material Theme - Darker" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.3" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
@@ -10,7 +11,6 @@
   </font>
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="70d06e" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -13451,6 +13451,48 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="252b39" />
+      </value>
+    </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value />
+    </option>
+    <option name="RUBY_GVAR">
+      <value>
+        <option name="FOREGROUND" value="ce4689" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_HASH_ASSOC">
+      <value>
+        <option name="FOREGROUND" value="96bcff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="e5e5e5" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_LINE_CONTINUATION">
+      <value />
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="98d7" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcf1e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_NTH_REF">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SASS_IDENTIFIER">
