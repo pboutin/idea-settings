@@ -11,6 +11,7 @@
   </font>
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.3" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="70d06e" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -13451,6 +13452,42 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="252b39" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="96bcff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="96bcff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FOREGROUND" value="96bcff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
+      <value>
+        <option name="FOREGROUND" value="96bcff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="96bcff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="96bcff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
