@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -14,7 +15,6 @@
       <mask>*.mxml</mask>
       <mask>*.less</mask>
       <mask>*.xml</mask>
-      <mask>*.scss</mask>
       <mask>*.sql</mask>
       <mask>*.sh</mask>
       <mask>*.py</mask>
@@ -28,11 +28,13 @@
       <mask>*.spec</mask>
       <mask>*.spe</mask>
       <mask>*.sp</mask>
-      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.e</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
+      <mask>*.s</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
