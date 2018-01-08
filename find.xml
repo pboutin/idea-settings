@@ -6,27 +6,11 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.sql</mask>
-      <mask>*.sh</mask>
-      <mask>*.py</mask>
-      <mask>*.php</mask>
-      <mask>*.yaml</mask>
-      <mask>*.html</mask>
-      <mask>*.spec.js</mask>
-      <mask>*.spec.</mask>
-      <mask>*.spec</mask>
-      <mask>*.spe</mask>
-      <mask>*.sp</mask>
-      <mask>*.e</mask>
-      <mask>*.er</mask>
-      <mask>*.erb</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -36,6 +20,22 @@
       <mask>*.js.e</mask>
       <mask>*.js.es</mask>
       <mask>*.js.es6</mask>
+      <mask>.yml</mask>
+      <mask>.ym</mask>
+      <mask>.y</mask>
+      <mask>.</mask>
+      <mask>yml</mask>
+      <mask>ym</mask>
+      <mask>y</mask>
+      <mask>*</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.fr</mask>
+      <mask>*.fr.</mask>
+      <mask>*.fr.y</mask>
+      <mask>*.fr.yml</mask>
     </recentFileMasks>
   </component>
 </application>
