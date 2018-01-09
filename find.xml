@@ -5,15 +5,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.erb" />
+    <option name="FILE_MASK" value="*.js.es6" />
     <recentFileMasks>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.js</mask>
       <mask>*.js.</mask>
       <mask>*.js.e</mask>
       <mask>*.js.es</mask>
-      <mask>*.js.es6</mask>
       <mask>.yml</mask>
       <mask>.ym</mask>
       <mask>.y</mask>
@@ -29,7 +26,6 @@
       <mask>*.fr.y</mask>
       <mask>*.fr.yml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.er</mask>
       <mask>*.erb.html</mask>
       <mask>*.erb.htm</mask>
@@ -37,6 +33,10 @@
       <mask>*.erb.h</mask>
       <mask>*.erb.</mask>
       <mask>*.erb</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.js.es6</mask>
     </recentFileMasks>
   </component>
 </application>
