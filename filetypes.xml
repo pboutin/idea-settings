@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="stk-project-feed" type="PLAIN_TEXT" />
-      <mapping pattern="deploy_machines" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="deploy_machines" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="*.html.erb" type="RHTML" />
       <mapping pattern="*.erb.deface" type="RHTML" />
