@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
-      <mask>*.scss</mask>
-      <mask>*.js.</mask>
       <mask>*.js.e</mask>
       <mask>*.js.es</mask>
       <mask>.yml</mask>
@@ -33,9 +32,11 @@
       <mask>*.erb.</mask>
       <mask>*.erb</mask>
       <mask>*.e</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.js.es6</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
