@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.js.e</mask>
       <mask>*.js.es</mask>
@@ -15,9 +16,7 @@
       <mask>yml</mask>
       <mask>ym</mask>
       <mask>y</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
-      <mask>*.y</mask>
       <mask>*.fr</mask>
       <mask>*.fr.</mask>
       <mask>*.fr.y</mask>
@@ -34,8 +33,10 @@
       <mask>*.js</mask>
       <mask>*.js.es6</mask>
       <mask>*.</mask>
-      <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
