@@ -591,7 +591,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="722c40" />
+        <option name="BACKGROUND" value="8c2667" />
+        <option name="EFFECT_COLOR" value="852a54" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
