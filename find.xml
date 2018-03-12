@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.hbs" />
     <recentFileMasks>
-      <mask>ym</mask>
       <mask>y</mask>
       <mask>*.ym</mask>
       <mask>*.fr</mask>
@@ -19,21 +19,22 @@
       <mask>*.erb.</mask>
       <mask>*.erb</mask>
       <mask>*.e</mask>
-      <mask>*.js</mask>
       <mask>*.js.es6</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.sc</mask>
-      <mask>*.hb</mask>
-      <mask>*.h</mask>
-      <mask>*.hbs</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
