@@ -6,7 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ym</mask>
       <mask>*.fr</mask>
       <mask>*.fr.</mask>
       <mask>*.fr.y</mask>
@@ -28,14 +27,15 @@
       <mask>*.j</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
-      <mask>*.hbs</mask>
       <mask>*.yml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
