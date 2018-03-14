@@ -5,18 +5,17 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.erb" />
     <recentFileMasks>
       <mask>*.fr</mask>
       <mask>*.fr.</mask>
       <mask>*.fr.y</mask>
       <mask>*.fr.yml</mask>
-      <mask>*.er</mask>
       <mask>*.erb.html</mask>
       <mask>*.erb.htm</mask>
       <mask>*.erb.ht</mask>
       <mask>*.erb.h</mask>
       <mask>*.erb.</mask>
-      <mask>*.erb</mask>
       <mask>*.e</mask>
       <mask>*.js.es6</mask>
       <mask>*.y</mask>
@@ -36,6 +35,8 @@
       <mask>*.cs</mask>
       <mask>*.</mask>
       <mask>*.hbs</mask>
+      <mask>*.er</mask>
+      <mask>*.erb</mask>
     </recentFileMasks>
   </component>
 </application>
