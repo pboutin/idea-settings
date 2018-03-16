@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.fr</mask>
       <mask>*.fr.</mask>
@@ -15,10 +16,8 @@
       <mask>*.erb.ht</mask>
       <mask>*.erb.h</mask>
       <mask>*.erb.</mask>
-      <mask>*.e</mask>
       <mask>*.js.es6</mask>
       <mask>*.y</mask>
-      <mask>*.sc</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
       <mask>*.js</mask>
@@ -28,14 +27,16 @@
       <mask>*.yml</mask>
       <mask>*</mask>
       <mask>*.s</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.</mask>
       <mask>*.hbs</mask>
-      <mask>*.er</mask>
       <mask>*.erb</mask>
+      <mask>*.er</mask>
+      <mask>*.e</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
