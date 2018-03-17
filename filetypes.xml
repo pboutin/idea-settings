@@ -8,6 +8,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="deploy_machines" type="PLAIN_TEXT" />
+      <mapping pattern="get-key" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="*.html.erb" type="RHTML" />
       <mapping pattern="*.erb.deface" type="RHTML" />
