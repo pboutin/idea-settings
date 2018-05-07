@@ -5,7 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.fr</mask>
       <mask>*.fr.</mask>
@@ -33,10 +33,10 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.erb</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
