@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.erb" />
     <recentFileMasks>
       <mask>*.fr</mask>
       <mask>*.fr.</mask>
@@ -24,18 +25,18 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.hbs</mask>
-      <mask>*.er</mask>
       <mask>*.e</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.erb</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*.er</mask>
+      <mask>*.erb</mask>
     </recentFileMasks>
   </component>
 </application>
