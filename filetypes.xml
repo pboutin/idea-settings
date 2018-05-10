@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".tool-versions" type="PLAIN_TEXT" />
       <mapping pattern="stk-project-feed" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".nycrc" type="PLAIN_TEXT" />
