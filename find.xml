@@ -14,8 +14,6 @@
       <mask>*.erb.h</mask>
       <mask>*.erb.</mask>
       <mask>*.js.es6</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
       <mask>*.s</mask>
@@ -34,6 +32,8 @@
       <mask>*.er</mask>
       <mask>*.erb</mask>
       <mask>*.rb</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
