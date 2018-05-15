@@ -21,19 +21,19 @@
       <mask>*.cs</mask>
       <mask>*.hbs</mask>
       <mask>*.e</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
       <mask>*.rb</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
