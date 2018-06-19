@@ -7514,6 +7514,14 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.4/lib/ruby/gems/2.3.0/gems/has_scope-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.4.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/hashie-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/hashie-3.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie (v3.4.6, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/hashie-3.4.6/lib" />
@@ -8730,6 +8738,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.4/lib/ruby/gems/2.3.0/gems/jsonapi-resources-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-resources-matchers (v0.4.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-resources-matchers-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-resources-matchers-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-resources-matchers-0.4.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/jsonapi-resources-matchers-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="jwt (v1.5.4, ruby-2.3.3-p222) [gem]">
@@ -10186,6 +10204,18 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.5/lib/ruby/gems/2.3.0/gems/newrelic_rpm-5.0.0.342/recipes" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.0.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-2.0.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.1.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-2.1.0/ext" />
@@ -10858,6 +10888,16 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/parser-2.2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.1.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.3.1.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.3.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.3.1.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.3.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.1.2, ruby-2.3.5-p376) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.5/lib/ruby/gems/2.3.0/gems/parser-2.3.1.2/bin" />
@@ -11112,6 +11152,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.4/lib/ruby/gems/2.3.0/gems/phare-0.7.1/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.4/lib/ruby/gems/2.3.0/gems/phare-0.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="phare (v1.0.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/phare-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/phare-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/phare-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/phare-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="phare (v1.0.0, ruby-2.3.5-p376) [gem]">
@@ -12568,6 +12618,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.3/lib/ruby/gems/2.3.0/gems/rainbow-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.1.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rainbow-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rainbow-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.1.0, ruby-2.3.5-p376) [gem]">
