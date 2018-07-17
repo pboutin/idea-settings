@@ -7,6 +7,7 @@
       <mapping pattern=".nycrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
@@ -14,7 +15,6 @@
       <mapping pattern="deploy_machines" type="PLAIN_TEXT" />
       <mapping pattern="get-key" type="PLAIN_TEXT" />
       <mapping pattern="pre_registration_mailer" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="*.html.erb" type="RHTML" />
       <mapping pattern="*.erb.deface" type="RHTML" />
