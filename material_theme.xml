@@ -1,6 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="userId" value="406cfa60:164a65b8451:-8000" />
   </component>
 </application>
