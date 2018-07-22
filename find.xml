@@ -5,37 +5,16 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.fr</mask>
-      <mask>*.fr.</mask>
-      <mask>*.fr.y</mask>
-      <mask>*.fr.yml</mask>
-      <mask>*.erb.html</mask>
-      <mask>*.erb.htm</mask>
-      <mask>*.erb.ht</mask>
-      <mask>*.erb.h</mask>
-      <mask>*.erb.</mask>
-      <mask>*.js.es6</mask>
-      <mask>*.h</mask>
-      <mask>*.hb</mask>
-      <mask>*.s</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.hbs</mask>
-      <mask>*.e</mask>
-      <mask>*</mask>
-      <mask>*.r</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>*.er</mask>
-      <mask>*.erb</mask>
-      <mask>*.rb</mask>
-      <mask>*.</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.rb</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
