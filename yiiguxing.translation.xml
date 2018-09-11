@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="event" />
+      <item value="preview" />
       <item value="Je m’inscris" />
       <item value="Vimeo" />
       <item value="Calendrier d’activités" />
