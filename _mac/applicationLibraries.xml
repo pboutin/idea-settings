@@ -288,6 +288,32 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/ast-2.3.0/test" />
       </excluded>
     </library>
+    <library name="ast (v2.4.0, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/test" />
+      </excluded>
+    </library>
+    <library name="ast (v2.4.0, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/test" />
+      </excluded>
+    </library>
     <library name="autoprefixer-rails (v7.1.1, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-7.1.1/lib" />
@@ -2258,6 +2284,32 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/test" />
       </excluded>
     </library>
+    <library name="jaro_winkler (v1.5.1, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/ext" />
+      </excluded>
+    </library>
+    <library name="jaro_winkler (v1.5.1, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/ext" />
+      </excluded>
+    </library>
     <library name="jquery-rails (v4.3.1, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/jquery-rails-4.3.1/lib" />
@@ -3024,6 +3076,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parallel-1.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel (v1.12.1, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="paranoia (v2.1.5, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/paranoia-2.1.5/lib" />
@@ -3073,6 +3141,44 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/doc" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/parser-2.4.0.0/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.5.1.2, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.5.1.2, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.2/test" />
       </excluded>
     </library>
     <library name="pg (v0.18.1, ruby-2.3.1-p112) [gem]" type="ruby">
@@ -3186,6 +3292,32 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/spec" />
+      </excluded>
+    </library>
+    <library name="powerpack (v0.1.2, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="powerpack (v0.1.2, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/spec" />
       </excluded>
     </library>
     <library name="premailer (v1.10.4, ruby-2.3.1-p112) [gem]" type="ruby">
@@ -3728,6 +3860,32 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rainbow-2.2.2/spec" />
       </excluded>
     </library>
+    <library name="rainbow (v3.0.0, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="rainbow (v3.0.0, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="rake (v10.4.2, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
@@ -4174,6 +4332,50 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rubocop-0.49.1/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.59.2, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.59.2, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.59.2/config" />
+      </excluded>
+    </library>
     <library name="rubocop-mirego (v0.0.3, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rubocop-mirego-0.0.3/lib" />
@@ -4269,6 +4471,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.7.0.beta4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.7.0.beta4/ext" />
       </excluded>
+    </library>
+    <library name="ruby-progressbar (v1.10.0, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.10.0, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
@@ -5108,6 +5326,38 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.2.1/data" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.2.1/spec" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.4.0, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/spec" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.4.0, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/spec" />
       </excluded>
     </library>
     <library name="uniform_notifier (v1.10.0, ruby-2.3.1-p112) [gem]" type="ruby">
