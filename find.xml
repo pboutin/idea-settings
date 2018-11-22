@@ -16,9 +16,9 @@
     <mask>*.erb</mask>
     <mask>*.exs</mask>
     <mask>*.js</mask>
-    <mask>*.hbs</mask>
     <mask>*.scss</mask>
     <mask>*.eex</mask>
     <mask>*.ex</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
