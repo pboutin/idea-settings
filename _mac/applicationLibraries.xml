@@ -3748,6 +3748,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-accept-0.4.5/test" />
       </excluded>
     </library>
+    <library name="rack-attack (v5.4.2, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-attack-5.4.2/spec" />
+      </excluded>
+    </library>
     <library name="rack-canonical-host (v0.1.0, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.3.1/lib/ruby/gems/2.3.0/gems/rack-canonical-host-0.1.0/lib" />
