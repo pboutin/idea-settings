@@ -12,6 +12,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="rspec" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="deploy_machines" type="PLAIN_TEXT" />
