@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vérifiez le solde d’une carte-cadeau en entrant les chiffres inscrits à l’endos de la carte-cadeau." />
       <item value="Les détails de la carte-cadeau ont été envoyés à l’adresse courriel saisie." />
       <item value="Transaction approuvée" />
       <item value="La transaction n’a pas pu être complétée, veuillez réessayer plus tard." />
