@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Montant ajouté" />
+      <item value="Numéro de carte-cadeau" />
+      <item value="Pour une carte virtuelle, entrez les chiffres initialement reçus par courriel. Pour une carte traditionnelle, entrez les chiffres apparaissant à l’endos de la carte." />
       <item value="Gift card not found" />
       <item value="Vérifiez le solde d’une carte-cadeau en entrant les chiffres inscrits à l’endos de la carte-cadeau." />
       <item value="Les détails de la carte-cadeau ont été envoyés à l’adresse courriel saisie." />
