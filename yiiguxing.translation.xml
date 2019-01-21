@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nous espérons que vous serez entièrement satisfait de votre achat." />
+      <item value="Vous venez d’ajouter des fonds à une carte-cadeau Archibald." />
+      <item value="Pour pouvoir utiliser cette carte-cadeau virtuelle, cette personne devra imprimer le courriel qu’elle recevra et le présenter dans son restaurant préféré au moment du paiement de sa facture." />
+      <item value="Vous venez d’offrir une carte-cadeau à %{gift_name}, qui lui a été transmise à l’adresse courriel %{gift_email}." />
+      <item value="Pour pouvoir utiliser cette carte-cadeau virtuelle, vous devez imprimer ce courriel et le présenter en restaurant à votre serveur au moment de votre paiement." />
+      <item value="Merci de vous être procuré une carte-cadeau Archibald." />
+      <item value="Votre carte-cadeau Archibald" />
+      <item value="Message pour le destinataire" />
+      <item value="Confirmer le courriel du destinataire" />
+      <item value="Courriel du destinataire" />
+      <item value="Nom du destinataire" />
+      <item value="Offrir en cadeau virtuel" />
       <item value="A new gift card has been bought." />
       <item value="Montant ajouté" />
       <item value="Numéro de carte-cadeau" />
@@ -39,14 +51,6 @@
       <item value="Nous écrire" />
       <item value="job" />
       <item value="event" />
-      <item value="preview" />
-      <item value="Je m’inscris" />
-      <item value="Vimeo" />
-      <item value="Calendrier d’activités" />
-      <item value="M’informer sur Québec" />
-      <item value="Entrepreneur ou professionnel au Québec" />
-      <item value="Travailleur ou étudiant international" />
-      <item value="International worker or student" />
     </histories>
   </component>
 </application>
