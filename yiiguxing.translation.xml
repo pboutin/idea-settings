@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nom du destinataire" />
+      <item value="Provient de l’extérieur du site" />
       <item value="Nous espérons que vous serez entièrement satisfait de votre achat." />
       <item value="Vous venez d’ajouter des fonds à une carte-cadeau Archibald." />
       <item value="Pour pouvoir utiliser cette carte-cadeau virtuelle, cette personne devra imprimer le courriel qu’elle recevra et le présenter dans son restaurant préféré au moment du paiement de sa facture." />
@@ -11,7 +13,6 @@
       <item value="Message pour le destinataire" />
       <item value="Confirmer le courriel du destinataire" />
       <item value="Courriel du destinataire" />
-      <item value="Nom du destinataire" />
       <item value="Offrir en cadeau virtuel" />
       <item value="A new gift card has been bought." />
       <item value="Montant ajouté" />
@@ -50,7 +51,6 @@
       <item value="Emplois disponibles" />
       <item value="Nous écrire" />
       <item value="job" />
-      <item value="event" />
     </histories>
   </component>
 </application>
