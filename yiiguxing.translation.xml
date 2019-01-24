@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Status" />
       <item value="box" />
       <item value="Nom du destinataire" />
       <item value="Provient de l’extérieur du site" />
@@ -50,7 +51,6 @@
       <item value="Aucune boutique n’a été trouvée avec le mot" />
       <item value="splitted Time" />
       <item value="Emplois disponibles" />
-      <item value="Nous écrire" />
     </histories>
   </component>
 </application>
