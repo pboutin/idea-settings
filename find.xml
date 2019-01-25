@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*.erb</mask>
     <mask>*.exs</mask>
-    <mask>*.scss</mask>
     <mask>*.ex</mask>
     <mask>*.hbs</mask>
     <mask>*.eex</mask>
@@ -23,5 +23,6 @@
     <mask>*.yml</mask>
     <mask>*.rb</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
