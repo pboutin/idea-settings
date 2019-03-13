@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temporairement" />
       <item value="index" />
       <item value="mentee query" />
       <item value="Status" />
@@ -50,7 +51,6 @@
       <item value="Fiche Boutique" />
       <item value="&quot;Aucune promotion n’a été trouvée pour" />
       <item value="Veuillez entrer votre mot clé dans l’espace de recherche" />
-      <item value="Aucune boutique n’a été trouvée avec le mot" />
     </histories>
   </component>
 </application>
