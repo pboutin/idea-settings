@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.html.eex" type="HTML" />
+      <mapping pattern="*.html.eex" type="EEx" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="deploy_machines" type="PLAIN_TEXT" />
       <mapping pattern="get-key" type="PLAIN_TEXT" />
