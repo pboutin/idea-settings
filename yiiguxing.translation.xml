@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect email or password." />
       <item value="The system looks OK." />
       <item value="Oops, something went wrong! Please check the errors below." />
       <item value="unintentionaly" />
@@ -50,7 +51,6 @@
       <item value="They should appear as recent in a few seconds." />
       <item value="redeemed" />
       <item value="sanitization" />
-      <item value="Subscribe" />
     </histories>
   </component>
 </application>
