@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The system looks OK." />
+      <item value="Oops, something went wrong! Please check the errors below." />
       <item value="unintentionaly" />
       <item value="temporairement" />
       <item value="index" />
@@ -49,8 +51,6 @@
       <item value="redeemed" />
       <item value="sanitization" />
       <item value="Subscribe" />
-      <item value="Fiche Boutique" />
-      <item value="&quot;Aucune promotion n’a été trouvée pour" />
     </histories>
   </component>
 </application>
