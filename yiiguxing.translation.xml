@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An email with reset instructions has been sent to you. Please check your inbox." />
       <item value="Incorrect email or password." />
       <item value="The system looks OK." />
       <item value="Oops, something went wrong! Please check the errors below." />
@@ -50,7 +51,6 @@
       <item value="Bonjour, Merci de vous être procuré une carte-cadeau Archibald.&lt;br&gt;Nous espérons que vous serez entièrement satisfait de votre achat. Pour pouvoir utiliser cette carte-cadeau virtuelle, vous devez imprimer ce courriel et le présenter en restaurant à votre serveur au moment de votre paiement." />
       <item value="They should appear as recent in a few seconds." />
       <item value="redeemed" />
-      <item value="sanitization" />
     </histories>
   </component>
 </application>
