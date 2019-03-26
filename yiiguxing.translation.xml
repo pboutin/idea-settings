@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Edit your profile" />
       <item value="your password reset query" />
       <item value="your password reset" />
       <item value="You can disregard this email if you didn't request a password reset." />
@@ -50,7 +51,6 @@
       <item value="Pour vérifier le solde de votre carte-cadeau, cliquez le lien ci-dessous et entrer les informations de la carte." />
       <item value="Vérifier votre solde" />
       <item value="ajouter des fonds" />
-      <item value="solde actuel" />
     </histories>
   </component>
 </application>
