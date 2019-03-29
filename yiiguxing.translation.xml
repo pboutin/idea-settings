@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A slug cannot start or end with a '/'. It must be composed only of alphanumeric characters and dashes or slashes as separators." />
+      <item value="Are you sure you want to remove this block?" />
+      <item value="Save the page to start adding blocks. The page will only be available when you publish it." />
       <item value="Something went wrong, please review the errors below." />
       <item value="Page could not be previewed" />
       <item value="Page could not be published, slug is already used." />
@@ -48,9 +51,6 @@
       <item value="Pour une carte virtuelle, entrez les chiffres initialement reçus par courriel. Pour une carte traditionnelle, entrez les chiffres apparaissant à l’endos de la carte." />
       <item value="Gift card not found" />
       <item value="Vérifiez le solde d’une carte-cadeau en entrant les chiffres inscrits à l’endos de la carte-cadeau." />
-      <item value="Les détails de la carte-cadeau ont été envoyés à l’adresse courriel saisie." />
-      <item value="Transaction approuvée" />
-      <item value="La transaction n’a pas pu être complétée, veuillez réessayer plus tard." />
     </histories>
   </component>
 </application>
