@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Page could not be previewed" />
+      <item value="Page could not be published, slug is already used." />
+      <item value="Page has been deleted successfully" />
+      <item value="Page has been updated successfully." />
+      <item value="Page has been created successfully" />
+      <item value="Preview" />
+      <item value="Are you sure you want to delete this page?" />
+      <item value="Delete" />
+      <item value="Edit" />
+      <item value="Create page" />
+      <item value="Create your first page" />
+      <item value="You don’t have any pages yet" />
       <item value="Edit your profile" />
       <item value="your password reset query" />
       <item value="your password reset" />
@@ -39,18 +51,6 @@
       <item value="Transaction approuvée" />
       <item value="La transaction n’a pas pu être complétée, veuillez réessayer plus tard." />
       <item value="Une erreur est survenue" />
-      <item value="Montant à déposer sur la carte" />
-      <item value="Votre code postal" />
-      <item value="Recevez ou offrez par courriel une carte-cadeau virtuelle que vous pourrez imprimer pour présenter en restaurant ou transférer dans votre application Web Archibald." />
-      <item value="formule d'appel" />
-      <item value="L'équipe d'Archibald" />
-      <item value="Merci de faire confiance à l'équipe d'Archibald et bon appétit !" />
-      <item value="Vous pouvez en tout temps ajouter des fonds à votre carte en vous rendant sur notre site web dans la section carte-cadeau, sous le menu &quot;Ajouter un montant à une carte&quot;." />
-      <item value="Ajouter des fonds" />
-      <item value="Vérifier mon solde" />
-      <item value="Pour vérifier le solde de votre carte-cadeau, cliquez le lien ci-dessous et entrer les informations de la carte." />
-      <item value="Vérifier votre solde" />
-      <item value="ajouter des fonds" />
     </histories>
   </component>
 </application>
