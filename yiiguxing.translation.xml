@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Something went wrong, please review the errors below." />
       <item value="A slug cannot start or end with a '/'. It must be composed only of alphanumeric characters and dashes or slashes as separators." />
       <item value="Are you sure you want to remove this block?" />
       <item value="Save the page to start adding blocks. The page will only be available when you publish it." />
-      <item value="Something went wrong, please review the errors below." />
       <item value="Page could not be previewed" />
       <item value="Page could not be published, slug is already used." />
       <item value="Page has been deleted successfully" />
