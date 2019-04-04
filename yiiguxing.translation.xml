@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regroupement de contenu" />
       <item value="reset the cropping" />
       <item value="Used to describe an image, principally for web accessibility (for blind and visually impaired)" />
       <item value="Something went wrong, please review the errors below." />
@@ -50,7 +51,6 @@
       <item value="A new gift card has been bought." />
       <item value="Montant ajouté" />
       <item value="Numéro de carte-cadeau" />
-      <item value="Pour une carte virtuelle, entrez les chiffres initialement reçus par courriel. Pour une carte traditionnelle, entrez les chiffres apparaissant à l’endos de la carte." />
     </histories>
   </component>
 </application>
