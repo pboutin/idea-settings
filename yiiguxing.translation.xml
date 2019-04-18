@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="information complémentaire" />
       <item value="regroupement de contenu" />
       <item value="reset the cropping" />
       <item value="Used to describe an image, principally for web accessibility (for blind and visually impaired)" />
@@ -50,7 +51,6 @@
       <item value="Offrir en cadeau virtuel" />
       <item value="A new gift card has been bought." />
       <item value="Montant ajouté" />
-      <item value="Numéro de carte-cadeau" />
     </histories>
   </component>
 </application>
