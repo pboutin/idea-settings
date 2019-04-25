@@ -3,10 +3,13 @@
     <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="accentColor" value="84ffff" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="monochromeIcons" value="true" />
     <option name="userId" value="406cfa60:164a65b8451:-8000" />
   </component>
 </application>
