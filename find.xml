@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ex" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +18,6 @@
     <mask>*.mxml</mask>
     <mask>*.erb</mask>
     <mask>*.exs</mask>
-    <mask>*.ex</mask>
     <mask>*.hbs</mask>
     <mask>*.eex</mask>
     <mask>*.yml</mask>
@@ -26,5 +26,6 @@
     <mask>*.scss</mask>
     <mask>*.po</mask>
     <mask>*.html.eex</mask>
+    <mask>*.ex</mask>
   </component>
 </application>
