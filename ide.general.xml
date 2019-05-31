@@ -17,6 +17,5 @@
     <entry key="ide.svg.icon" value="true" />
     <entry key="terminal.buffer.max.lines.count" value="10000" />
     <entry key="type.ahead.logging.enabled" value="true" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
