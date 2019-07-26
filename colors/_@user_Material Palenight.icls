@@ -3,7 +3,7 @@
     <property name="created">2019-07-26T00:13:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-26T00:16:19</property>
+    <property name="modified">2019-07-26T00:42:57</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <colors>
@@ -229,6 +229,16 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2a2a2a" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5fb2ec" />
+      </value>
+    </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="33cccc" />
@@ -285,7 +295,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cdcd00" />
+        <option name="FOREGROUND" value="c6c335" />
       </value>
     </option>
     <option name="CSS.CLASS_NAME">
