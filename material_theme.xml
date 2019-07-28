@@ -6,15 +6,16 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="28" />
     <option name="accentColor" value="ab47bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="406cfa60:164a65b8451:-8000" />
-    <option name="version" value="4.2" />
+    <option name="version" value="3.10.0" />
   </component>
 </application>
