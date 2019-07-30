@@ -4,6 +4,7 @@
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
