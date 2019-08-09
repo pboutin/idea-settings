@@ -17,5 +17,6 @@
     <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*.kt</mask>
+    <mask>*.po</mask>
   </component>
 </application>
