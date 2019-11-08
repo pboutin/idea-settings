@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="resolver.ex" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,5 +17,6 @@
     <mask>*.scss</mask>
     <mask>*.po</mask>
     <mask>*.hbs</mask>
+    <mask>resolver.ex</mask>
   </component>
 </application>
