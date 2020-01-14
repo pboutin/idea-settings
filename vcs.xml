@@ -1,11 +1,11 @@
 <application>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
       <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <UrlAndUserName>
+          <option name="url" value="http://git.hortau.com" />
+          <option name="userName" value="pboutin@mirego.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
