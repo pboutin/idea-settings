@@ -6,6 +6,7 @@
       <mapping pattern="select-textarea" type="PLAIN_TEXT" />
       <mapping pattern=".fetch" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="flash-messages" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="esx" type="PLAIN_TEXT" />
